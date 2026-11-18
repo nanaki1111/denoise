@@ -32,7 +32,7 @@ Please install the required dependencies before running the code.
 
 4. Repository Structure
 
-NP-SRN/
+NP-SRN
 ├──main.py
 │
 ├── data
